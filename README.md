@@ -8,6 +8,7 @@ Python and Google Looker Studio.
 ## Live Dashboard
 
 🔗 [View Interactive Dashboard](https://lookerstudio.google.com/reporting/325f601b-074d-46f9-97f3-6f08cb6dfcf9)
+![Dashboard Preview](dashboard_preview.png)
 
 Filter by team to instantly see player rankings by xG, goals, 
 shots and conversion rate.
